@@ -70,3 +70,4 @@ while pygame.mixer.music.get_busy():
 
 # 程序结束后删除生成的临时MIDI文件
 os.remove("{}.MID".format(music))
+

@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 临时MIDI文件
+*.MID
+*.mid
+
+# 分发/打包
+dist/
+build/
+*.egg-info/
+
+# 虚拟环境
+venv/
+env/
+.env/
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
